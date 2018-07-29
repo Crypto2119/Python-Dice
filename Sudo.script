@@ -27,3 +27,4 @@ if V == 5
 if V == 6
   turn matrix 1, 3, 4, 6, 7, 9 black
 wait until space pressed
+set all matrix white
